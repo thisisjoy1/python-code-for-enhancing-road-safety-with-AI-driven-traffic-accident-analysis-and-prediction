@@ -1,1 +1,1 @@
-# python-code-for-enhancing-road-safety-with-AI-driven-traffic-accident-analysis-and-prediction
+https://colab.research.google.com/drive/1XCLibRxVV7dEINQqMU403GTgWscZ6Lwo#scrollTo=VWsuT0osxfQT&line=1&uniqifier=1
